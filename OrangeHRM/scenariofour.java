@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.Select;
 public class scenariofour {
 public static void main(String[] args) throws InterruptedException {
 		
-		System.setProperty("webdriver.chrome.driver","C:/Users/NAKUL LAKHOTIA/Documents/selenium/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:/Users/Vijayanand Premnath/Documents/selenium/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		// Scenario- To Apply leave using Actions & Select Class
 		String baseUrl = "https://opensource-demo.orangehrmlive.com/index.php/auth/login";
